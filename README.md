@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Computer Vision Lab 1 Banner" width="100%">
+  <img src="banner.png" alt="Computer Vision Lab 1 Banner" width="80%">
 </p>
 
 # Computer Vision Lab 1
